@@ -1,0 +1,3 @@
+static: # This allows static files to be directly accessible
+  path: /akamai
+  files: akamai/**
